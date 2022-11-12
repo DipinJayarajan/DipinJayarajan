@@ -28,12 +28,8 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 	<a href="https://www.linkedin.com/in/dipin-jayarajan/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 	<a href="https://twitter.com/DipinNair01"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
 	<a href="https://www.instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	
-	
+
 </p>
-
-
-
 
 <!---
 DipinJayarajan/DipinJayarajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
