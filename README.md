@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Dipin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h4 align="center">
-I'm a Front End Developer based in India 🙏, I am passionate about open-source, coding, and web technologies❤️. <br />
+I'm a Front End Developer based in India 🙏, I am passionate about open-source, coding, and web technologies❤. <br />
 	Besides my job, I like to create and contribute to open source projects. It helps me learn a lot and grow as a developer while also supporting other open source projects.
 </h4>
 <br>
